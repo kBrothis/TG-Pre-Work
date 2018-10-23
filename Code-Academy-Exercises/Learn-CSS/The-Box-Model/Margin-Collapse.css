@@ -1,0 +1,1 @@
+/* No code but I learned that top and bottom margins will collapse meaning that the margin is only as big as the bigger margin between the two boxes. For example, if the first box has a bottom margin of 30 px and the top of the box below only has a 20 px, the distance between the boxes will be 30 px. */
