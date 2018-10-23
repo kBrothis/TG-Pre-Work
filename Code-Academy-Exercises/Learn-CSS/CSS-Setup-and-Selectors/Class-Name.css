@@ -1,0 +1,14 @@
+
+p {
+	font-family: Arial;
+  }
+
+h1 {
+	color: maroon;
+}
+
+.title {
+	color: teal;
+}
+
+<!-- I learned that you can have class attributes in the HTML elements. You can style the class attributes in the CSS file by using a period before the class's name -->

@@ -1,0 +1,34 @@
+
+p {
+	font-family: Arial;
+  }
+h1 {
+	color: maroon;
+}
+.title {
+	color: teal;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+  color: gray;
+}
+.cursive {
+	font-family: cursive;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+h2.destination {
+  font-family: cursive;
+}
+.description h5{
+  color: teal;
+}
+
+h5 {
+  color: rebeccapurple;
+}
+
+/* I learned that if a selector for an element is more specific, it will only apply the styling to that specific selector. (i.e. selectors for .description h1 will only apply to h1 elements under description. All other h1 text will fall under the more general selecter of h1 unless there are other specific selectors.)*/
