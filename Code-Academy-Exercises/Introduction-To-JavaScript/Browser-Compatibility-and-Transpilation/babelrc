@@ -2,5 +2,5 @@
   "presets": ["env"]
 }
 
-// we have to define the preset for our source JavaScript file in the .babelrc file.
-// the .babelrc file is found in the root directory;
+// we have to define the preset for our source JavaScript file in a new file
+//we can use touch in the root directory to create the new file. Once the file is created, we add an object to specify the preset to env
