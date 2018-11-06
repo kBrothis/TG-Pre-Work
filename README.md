@@ -4,6 +4,8 @@
 
 When I hit the link, my computer (the client) is requesting information from the server to deliver to my browser. My browser connects to the server and the server provides my browser with the information to display.
 
+(Using the link above, my browser tries to reach the server however, it recognizes that the website isn't secure therefore, it blocks me from accessing the webpage.)
+
 ## From start to finish how does that data reach you to be rendered in the browser?
 
 When I put the URL into my browser, my browser looks up the URL's IP address on the Domain Name System to find the server where the information is housed on. Once my browser is able to contact the IP address, the server will retrieve the requested document and return an HTTP response. The response contains the document and success status.
